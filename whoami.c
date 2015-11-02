@@ -5,6 +5,7 @@ int main() {
 	printf("1023008\n");
 	printf("1024869\n");
 	printf("1023006\n");
-	
+	printf("1023003\n");
+
 	return 0;
 }
