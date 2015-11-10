@@ -7,6 +7,8 @@ int main() {
 	printf("1024869\n");
 	printf("1023006\n");
 	printf("1023007\n");
-	
+	printf("1023003\n");
+	printf("1023030\n");
+
 	return 0;
 }
