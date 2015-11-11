@@ -12,6 +12,7 @@ int main() {
 	printf("1022994\n");
 	printf("1023012\n");
 	printf("1023027\n");
+	printf("1023010\n");
 
 	return 0;
 }
